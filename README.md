@@ -2,7 +2,7 @@
 
 **Autoresearch for reinforcement learning.** Give it any RL environment, go to sleep, wake up to an optimized PPO algorithm.
 
-![BipedalWalker training progress](progress_copy.png)
+![BipedalWalker training progress](progress.png)
 
 ![MuJoCo transfer results](transfer_comparison.png)
 
