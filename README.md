@@ -6,7 +6,7 @@
 
 ![MuJoCo transfer results](transfer_comparison.png)
 
-Give an AI agent a RL training setup and let it experiment autonomously overnight. It modifies `train.py`, runs a 12 minute rollout, checks if `avg_return` improved, keeps or reverts, and repeats. You program the research direction in `program.md` — a Markdown file, not Python. Inspired by [@karpathy's autoresearch](https://github.com/karpathy/autoresearch), adapted for reinforcement learning.
+Give an AI agent a RL training setup and let it experiment autonomously overnight. It modifies `train.py`, runs a 12 minute rollout, checks if `avg_return` improved, keeps or reverts, and repeats. You program the research direction in program.md. Inspired by [@karpathy's autoresearch](https://github.com/karpathy/autoresearch), adapted for reinforcement learning.
 
 ## How it works
 
